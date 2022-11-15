@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the MERN stack.
 - 💞️ I’m looking to collaborate on any projects involving the MERN stack, or python.
 - 📫 How to reach me devwinston35@gmail.com, juliuswinston7@gmail.com
+- TECH: React js, React Native, Mongo db, Node js, MySql, Java, PHP, Javascript, HTML, CSS, SCSS, SalesforceS
 
 <!---
 jWinston635/jWinston635 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
